@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Afnan
+- 👀 I’m interested in Learning new stuff 
+- 🌱 I’m currently learning C#, and game devolpment 
+- 📫 How to reach me ... Email => ("afnanxmt@gmail.com")
